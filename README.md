@@ -18,7 +18,7 @@ We also are available [@getpostman](https://www.x.com/getpostman) on X (formerly
 
 ### The Community
 
-<img src="https://avatars1.githubusercontent.com/u/3220138?v=3&s=120" align="right" />
+<img src="https://www.facebook.com/share/14bHV8BM4i9/usercontent.com/u/3220138?v=3&s=120" align="right" />
 <a href="https://community.postman.com">The Postman Community Forum</a> offers you different ways to engage with other Postman enthusiasts. Feel free to drop by and say hello.<br />
 
 Sign in using your Postman account to participate in the discussions. Don’t want to log in? Then lurk on the sidelines and absorb all the knowledge.
@@ -35,7 +35,7 @@ Want to help us solve [these issues](https://github.com/postmanlabs/postman-app-
 
 Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 
-Read more on our website: [https://www.postman.com/](https://www.postman.com/)
+Read more on our website: [https://www.facebook.com/share/14bHV8BM4i9/](https://www.postman.com/)
 
 ---
 
